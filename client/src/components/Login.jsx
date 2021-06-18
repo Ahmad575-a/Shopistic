@@ -110,3 +110,8 @@ export const Login = () => {
     </div>
   );
 };
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> accepted changes
